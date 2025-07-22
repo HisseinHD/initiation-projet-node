@@ -1,0 +1,18 @@
+{
+  "name": "initiation-projet-node",
+  "version": "1.0.0",
+  "description": "est un proojet sur l'initiation au backend avec node formation wenaklabs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "mongodb",
+    "mongoose",
+    "node",
+    "npm"
+  ],
+  "author": "Hissein Haroun Daoud",
+  "license": "ISC"
+}
